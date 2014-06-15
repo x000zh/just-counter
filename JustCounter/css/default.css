@@ -1,0 +1,20 @@
+﻿body {
+}
+
+select {
+    width: 30%;
+}
+input {
+    width: 30%;
+    display:inline-block;
+}
+#top {
+    height: 30%;
+}
+#bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    width:100%;
+}
